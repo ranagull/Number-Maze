@@ -1,0 +1,7 @@
+rana 25
+emiran 15
+ayse 11
+elif 20
+muzo 41
+can 55
+sukran 10
